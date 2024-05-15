@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @HafizMohsinRaza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About Me
 
-<!---
-HafizMohsinRaza/HafizMohsinRaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Hafiz Mohsin Raza, a passionate DevOps Engineer with over 2 years of hands-on experience in the field of DevOps and Cloud Computing. I have a strong foundation in various DevOps tools and methodologies, and I am proficient in working with all major cloud platforms.
+
+## Skills & Expertise
+
+- **DevOps Tools**: Proficient in using tools such as Docker, Kubernetes, Jenkins, Ansible, Terraform, and Git for automation, deployment, and management of infrastructure and applications.
+- **Cloud Platforms**: Experienced in working with all major cloud providers, including AWS, Azure, and Google Cloud Platform, for designing, deploying, and managing cloud-native solutions.
+- **Scripting**: Skilled in scripting with Bash, Python, and PowerShell for automation and orchestration of tasks.
+- **CI/CD**: Adept at implementing continuous integration and continuous deployment pipelines to streamline the software delivery process.
+- **Monitoring & Logging**: Knowledgeable in setting up monitoring and logging solutions like Prometheus, Grafana, ELK Stack, and Splunk for real-time insights into system performance and issues.
+- **Security**: Familiar with best practices in cybersecurity and implementing security measures in DevOps workflows.
+
+## Acknowledgments
+
+I would like to thank the open-source community for providing endless learning opportunities and the tools that have empowered me to grow as a DevOps engineer.
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project. Happy coding!

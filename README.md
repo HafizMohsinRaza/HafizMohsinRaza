@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Hafiz Mohsin Raza, a passionate DevOps Engineer with over 2 years of hands-on experience in the field of DevOps and Cloud Computing. I have a strong foundation in various DevOps tools and methodologies, and I am proficient in working with all major cloud platforms.
+Hello! I'm Hafiz Mohsin Raza, a passionate Web Developer and DevOps Engineer with over 2 years of hands-on experience in the field of DevOps and Cloud Computing. I have a strong foundation in various DevOps tools and methodologies, and I am proficient in working with all major cloud platforms.
 
 ## Skills & Expertise
 
